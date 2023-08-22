@@ -1,0 +1,146 @@
+/*
+   student:Dalibor Mirkovic
+   ltu-id: dalmir2
+*/
+
+
+
+
+/* styling for menu bar */
+.menu-bar {
+   -fx-font-size: 18px;
+}
+
+
+/* styling for menu items */
+.menu-item {
+   -fx-font-size: 18px;
+}
+
+
+/* styling for main heading on main page */
+#headingMainPage {
+   -fx-text-fill: #2F4F4F;
+   -fx-font-size: 35px;
+   -fx-padding: 100px 130px 0px 130px;
+   -fx-alignment: center;
+}
+
+
+/* styling for page description on main page */
+#descMainPage{
+   -fx-text-fill: #2F4F4F;
+   -fx-font-size: 25px;
+    -fx-wrap-text: true;
+    -fx-padding: 20px 0px 0px 100px;
+    -fx-alignment: center;
+}
+
+
+/* styling for headings on each page */
+.heading{
+   -fx-text-fill: #2F4F4F;
+   -fx-font-size: 30px;
+   -fx-padding: 20px 0px 0px 30px;
+   -fx-alignment: center;
+}
+
+
+/* styling for labels for users' input */
+.labelsPage{
+   -fx-text-fill: #2F4F4F;
+   -fx-font-size: 16px;
+   -fx-padding: 20px 0px 0px 30px;
+   -fx-alignment: center;
+   -fx-wrap-text: true;
+}
+
+
+/* styling for result information, final */
+.ResultLabelsPage{
+   -fx-padding: 10px 0px 0px 30px;
+   -fx-font-size: 16px;
+}
+
+
+/* styling for details about customers or their accounts */
+.labelsPageDetails{
+   -fx-text-fill: #262d2d;
+   -fx-padding: 0px 0px 0px 30px;
+   -fx-font-size: 16px;
+   -fx-font-weight: bold;
+}
+
+
+/* styling for details about customers or their accounts */
+.delAccLabel{
+  -fx-padding: 0px 0px 0px 30px;
+  -fx-font-size: 16px;
+  -fx-font-weight: bold;
+}
+
+
+/* styling for details about customers or their accounts */
+.pageDescClass{
+       -fx-text-fill: #2F4F4F;
+       -fx-font-size: 18px;
+       -fx-padding: 10px 0px 25px 30px;
+       -fx-alignment: center;
+       -fx-wrap-text: true;
+}
+
+
+/* styling for button */
+.button{
+   -fx-font-size: 16px;
+   -fx-text-fill: #039ED3;
+   -fx-font-weight: bold;
+   -fx-translate-x: 30px;
+
+
+}
+
+
+/* styling for text fields */
+.input {
+   -fx-text-fill: #2F4F4F;
+   -fx-font-size: 16px;
+   -fx-pref-width: 200px;
+   -fx-pref-height: 16px;
+}
+
+
+/* styling for text fields */
+.input1 {
+   -fx-text-fill: #2F4F4F;
+   -fx-font-size: 16px;
+   -fx-pref-width: 100px;
+   -fx-pref-height: 16px;
+   -fx-translate-x: 15px;
+}
+
+
+/* styling for table */
+.table{
+   -fx-padding: 20px 10px 25px 10px;
+   -fx-font-size: 16px;
+}
+
+
+/* styling for dropdown */
+.combo-box {
+   -fx-translate-x: 60px;
+}
+
+
+/* styling for dropdown items */
+.combo-box .list-cell {
+   -fx-font-size: 16px;
+   -fx-pref-width: 40px;
+   -fx-alignment: center;
+   -fx-pref-width: 80px;
+}
+
+
+
+
